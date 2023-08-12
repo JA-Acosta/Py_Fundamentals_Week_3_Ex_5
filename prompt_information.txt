@@ -1,0 +1,5 @@
+This is the seventeenth program derived from 100 program prompts suggested by ChatGPT for a 4 week python course.
+
+Prompt(s) Used:
+44. Implement a program that copies the contents of one file to another.
+45. Create a text file and write a simple sentence in it.
